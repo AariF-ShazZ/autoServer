@@ -246,7 +246,7 @@
           "color" : "BURGUNDY-RED",
           "gender" : "WOMEN",
           "original_price" :4799,
-          "final_price" : 3499,
+          "final_price" :4699,
           "images" : [
               "https://cdn.shopify.com/s/files/1/0258/2485/4100/products/1000x1000_0004_FH1-226_224x224_crop_center.jpg?v=1645653545",
               "https://cdn.shopify.com/s/files/1/0258/2485/4100/products/1000x1000_0001_FH1-230_224x224_crop_center.jpg?v=1645653545",
@@ -263,7 +263,7 @@
           "color" : "LAVENDER",
           "gender" : "WOMEN",
           "original_price" :4799,
-          "final_price" : 2499,
+          "final_price" :4599,
           "images" : [
               "https://cdn.shopify.com/s/files/1/0258/2485/4100/products/1000x1000_0000s_0002_FH1-244_224x224_crop_center.jpg?v=1645653458",
               "https://cdn.shopify.com/s/files/1/0258/2485/4100/products/1000x1000_0000s_0000_FH1-246_224x224_crop_center.jpg?v=1645653458",
@@ -280,7 +280,7 @@
           "color" : "BURGUNDY-RED",
           "gender" : "MEN",
           "original_price" :4799,
-          "final_price" : 3499,
+          "final_price" : 4599,
           "images" : [
               "https://cdn.shopify.com/s/files/1/0258/2485/4100/products/1000x1000_0004_FH1-226_224x224_crop_center.jpg?v=1645653545",
               "https://cdn.shopify.com/s/files/1/0258/2485/4100/products/1000x1000_0001_FH1-230_224x224_crop_center.jpg?v=1645653545",
@@ -297,7 +297,7 @@
           "color" : "OLIVE-BLACK (BLACK SOLE)",
           "gender" : "MEN",
           "original_price" :4799,
-          "final_price" : 3499,
+          "final_price" : 3999,
           "images" : [
               "https://cdn.shopify.com/s/files/1/0258/2485/4100/products/1000x1000_0000_FH1-187_224x224_crop_center.jpg?v=1645652332",
               "https://cdn.shopify.com/s/files/1/0258/2485/4100/products/1000x1000_0003_FH1-191_224x224_crop_center.jpg?v=1645652334",
@@ -328,8 +328,8 @@
           "name" : "BANANA KICKS",
           "color" : "ALL-BLACK",
           "gender" : "WOMEN",
-          "original_price" :4999,
-          "final_price" : 3999,
+          "original_price" :5999,
+          "final_price" : 4999,
           "images" : [
               "https://cdn.shopify.com/s/files/1/0258/2485/4100/products/1000x1000_0005_FH1-124_224x224_crop_center.jpg?v=1645650744",
               "https://cdn.shopify.com/s/files/1/0258/2485/4100/products/1000x1000_0006_FH1-123_224x224_crop_center.jpg?v=1645650741",
@@ -345,8 +345,8 @@
           "name" : "BANANA KICKS",
           "color" : "AQUA BLUE",
           "gender" : "WOMEN",
-          "original_price" :4999,
-          "final_price" : 3999,
+          "original_price" :9999,
+          "final_price" : 8999,
           "images" : [
               "https://cdn.shopify.com/s/files/1/0258/2485/4100/products/1000x1000_0006s_0003_FH1-164_224x224_crop_center.jpg?v=1645653336",
               "https://cdn.shopify.com/s/files/1/0258/2485/4100/products/1000x1000_0006s_0000_FH1-170_224x224_crop_center.jpg?v=1645653336",
@@ -415,7 +415,7 @@
           "color" : "BURGUNDY RED",
           "gender" : "WOMEN",
           "original_price" :8999,
-          "final_price" : 3999,
+          "final_price" : 7999,
           "images" : [
               "https://cdn.shopify.com/s/files/1/0258/2485/4100/products/1000x1000_0005s_0004_FH1-140_224x224_crop_center.jpg?v=1645653324",
               "https://cdn.shopify.com/s/files/1/0258/2485/4100/products/1000x1000_0005s_0001_FH1-145_224x224_crop_center.jpg?v=1645653324",
@@ -432,8 +432,8 @@
           "name" : "SOFTKNIT LOAFERS",
           "color" : "ALL-BLACK",
           "gender" : "MEN",
-          "original_price" :3499,
-          "final_price" : 2649,
+          "original_price" :13499,
+          "final_price" : 10249,
           "images" : [
               "https://cdn.shopify.com/s/files/1/0258/2485/4100/products/1000x1000_0007s_0000_FH1-254_85bda839-96d7-4e79-b8de-52833862d659_224x224_crop_center.jpg?v=1646035848",
               "https://cdn.shopify.com/s/files/1/0258/2485/4100/products/1000x1000_0007s_0001_FH1-253_62f5ff53-ddb8-4c81-8274-d512c38ec384_224x224_crop_center.jpg?v=1646035848",
@@ -484,7 +484,7 @@
           "color" : "BLACK & GREY (BLACK SOLE)",
           "gender" : "WOMEN",
           "original_price" :3499,
-          "final_price" : 2649,
+          "final_price" : 2849,
           "images" : [
               "https://cdn.shopify.com/s/files/1/0258/2485/4100/products/1000x1000_0001s_0001_FH1-320_224x224_crop_center.jpg?v=1646037672",
               "https://cdn.shopify.com/s/files/1/0258/2485/4100/products/1000x1000_0001s_0004_FH1-324_224x224_crop_center.jpg?v=1646037672",
@@ -518,7 +518,7 @@
           "color" : "BLACK & RED (BLACK SOLE)",
           "gender" : "MEN",
           "original_price" :3499,
-          "final_price" : 2649,
+          "final_price" : 2749,
           "images" : [
               "https://cdn.shopify.com/s/files/1/0258/2485/4100/products/1000x1000_0004_FH1-332_224x224_crop_center.jpg?v=1646037310",
               "https://cdn.shopify.com/s/files/1/0258/2485/4100/products/1000x1000_0002_FH1-334_224x224_crop_center.jpg?v=1646037309",
@@ -535,7 +535,7 @@
           "color" : "WHITE & NAVY",
           "gender" : "MEN",
           "original_price" :3499,
-          "final_price" : 2649,
+          "final_price" : 2249,
           "images" : [
               "https://cdn.shopify.com/s/files/1/0258/2485/4100/products/1000x1000_0004s_0002_FH1-284_224x224_crop_center.jpg?v=1646066714",
               "https://cdn.shopify.com/s/files/1/0258/2485/4100/products/1000x1000_0004s_0000_FH1-286_224x224_crop_center.jpg?v=1646066714",
@@ -569,7 +569,7 @@
           "color" : "BURGUNDY-RED",
           "gender" : "KIDS",
           "original_price" :4799,
-          "final_price" : 3499,
+          "final_price" : 3899,
           "images" : [
               "https://cdn.shopify.com/s/files/1/0258/2485/4100/products/1000x1000_0004_FH1-226_224x224_crop_center.jpg?v=1645653545",
               "https://cdn.shopify.com/s/files/1/0258/2485/4100/products/1000x1000_0001_FH1-230_224x224_crop_center.jpg?v=1645653545",
@@ -586,7 +586,7 @@
           "color" : "LAVENDER",
           "gender" : "WOMEN",
           "original_price" :4799,
-          "final_price" : 3499,
+          "final_price" :4599,
           "images" : [
               "https://cdn.shopify.com/s/files/1/0258/2485/4100/products/1000x1000_0000s_0002_FH1-244_224x224_crop_center.jpg?v=1645653458",
               "https://cdn.shopify.com/s/files/1/0258/2485/4100/products/1000x1000_0000s_0000_FH1-246_224x224_crop_center.jpg?v=1645653458",
@@ -602,8 +602,8 @@
           "name" : "LINEN SNEAKERS",
           "color" : "BURGUNDY-RED",
           "gender" : "MEN",
-          "original_price" :4799,
-          "final_price" : 3499,
+          "original_price" :5799,
+          "final_price" : 4499,
           "images" : [
               "https://cdn.shopify.com/s/files/1/0258/2485/4100/products/1000x1000_0004_FH1-226_224x224_crop_center.jpg?v=1645653545",
               "https://cdn.shopify.com/s/files/1/0258/2485/4100/products/1000x1000_0001_FH1-230_224x224_crop_center.jpg?v=1645653545",
@@ -620,7 +620,7 @@
           "color" : "OLIVE-BLACK (BLACK SOLE)",
           "gender" : "MEN",
           "original_price" :4799,
-          "final_price" : 3499,
+          "final_price" : 4199,
           "images" : [
               "https://cdn.shopify.com/s/files/1/0258/2485/4100/products/1000x1000_0000_FH1-187_224x224_crop_center.jpg?v=1645652332",
               "https://cdn.shopify.com/s/files/1/0258/2485/4100/products/1000x1000_0003_FH1-191_224x224_crop_center.jpg?v=1645652334",
@@ -636,7 +636,7 @@
           "color" : "OLIVE-BLACK (BLACK SOLE)",
           "gender" : "WOMEN",
           "original_price" :4799,
-          "final_price" : 3499,
+          "final_price" : 3999,
           "images" : [
               "https://cdn.shopify.com/s/files/1/0258/2485/4100/products/1000x1000_0000_FH1-187_224x224_crop_center.jpg?v=1645652332",
               "https://cdn.shopify.com/s/files/1/0258/2485/4100/products/1000x1000_0003_FH1-191_224x224_crop_center.jpg?v=1645652334",
