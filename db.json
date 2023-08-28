@@ -2,7 +2,7 @@
   "products" : [
       {   
           "id" : 1,
-          "name" : "BANANA KICKS",
+          "name" : "Kooltex",
           "color" : "ALL-BLACK",
           "gender" : "WOMEN",
           "original_price" :4999,
@@ -19,7 +19,7 @@
       },
       {   
           "id" : 2,
-          "name" : "BANANA KICKS",
+          "name" : "Softknit",
           "color" : "AQUA BLUE",
           "gender" : "WOMEN",
           "original_price" :4999,
@@ -37,7 +37,7 @@
       },
       {   
           "id" : 3,
-          "name" : "BANANA KICKS",
+          "name" : "Kooltex",
           "color" : "BURGUNDY RED",
           "gender" : "MEN",
           "original_price" :4999,
@@ -55,7 +55,7 @@
       },
        {   
           "id" : 4,
-          "name" : "BANANA KICKS",
+          "name" : "Softknit",
           "color" : "NATURAL WHITE",
           "gender" : "WOMEN",
           "original_price" :4999,
@@ -72,7 +72,7 @@
       },
       {   
           "id" : 5,
-          "name" : "BANANA KICKS",
+          "name" : "Softknit",
           "color" : "NATURAL WHITE",
           "gender" : "MEN",
           "original_price" :4999,
@@ -88,7 +88,7 @@
       },
       {   
           "id" : 6,
-          "name" : "BANANA KICKS",
+          "name" : "Softknit",
           "color" : "BURGUNDY RED",
           "gender" : "WOMEN",
           "original_price" :4000,
@@ -106,7 +106,7 @@
       },
       {   
           "id" : 7,
-          "name" : "SOFTKNIT LOAFERS",
+          "name" : "Kooltex",
           "color" : "ALL-BLACK",
           "gender" : "MEN",
           "original_price" :3499,
@@ -157,7 +157,7 @@
       },
       {   
           "id" : 10,
-          "name" : "SOFTKNIT LOAFERS",
+          "name" : "Softknit",
           "color" : "BLACK & GREY (BLACK SOLE)",
           "gender" : "WOMEN",
           "original_price" :3999,
@@ -174,7 +174,7 @@
       },
       {   
           "id" : 11,
-          "name" : "SOFTKNIT LOAFERS",
+          "name" : "Ellipsis",
           "color" : "BLACK & RED (BLACK SOLE)",
           "gender" : "WOMEN",
           "original_price" :3499,
@@ -225,7 +225,7 @@
       },
       {   
           "id" : 14,
-          "name" : "SOFTKNIT LOAFERS",
+          "name" : "Softknit",
           "color" : "WHITE & NAVY",
           "gender" : "WOMEN",
           "original_price" :3499,
@@ -242,7 +242,7 @@
       },
       {   
           "id" : 15,
-          "name" : "LINEN SNEAKERS",
+          "name" : "Ellipsis",
           "color" : "BURGUNDY-RED",
           "gender" : "WOMEN",
           "original_price" :4799,
@@ -259,7 +259,7 @@
       },
       {   
           "id" : 16,
-          "name" : "LINEN SNEAKERS",
+          "name" : "Softknit",
           "color" : "LAVENDER",
           "gender" : "WOMEN",
           "original_price" :4799,
@@ -293,7 +293,7 @@
       },
        {   
           "id" : 18,
-          "name" : "LINEN SNEAKERS",
+          "name" : "Softknit",
           "color" : "OLIVE-BLACK (BLACK SOLE)",
           "gender" : "MEN",
           "original_price" :4799,
@@ -309,7 +309,7 @@
       },
       {   
           "id" : 19,
-          "name" : "LINEN SNEAKERS",
+          "name" : "Linen",
           "color" : "OLIVE-BLACK (BLACK SOLE)",
           "gender" : "KIDS",
           "original_price" :4599,
@@ -325,7 +325,7 @@
       },
       {   
           "id" : 20,
-          "name" : "BANANA KICKS",
+          "name" : "Ellipsis",
           "color" : "ALL-BLACK",
           "gender" : "WOMEN",
           "original_price" :5999,
@@ -395,7 +395,7 @@
       },
       {   
           "id" : 24,
-          "name" : "BANANA KICKS",
+          "name" : "Linen",
           "color" : "NATURAL WHITE",
           "gender" : "KIDS",
           "original_price" :6999,
@@ -411,7 +411,7 @@
       },
       {   
           "id" : 25,
-          "name" : "BANANA KICKS",
+          "name" : "Ellipsis",
           "color" : "BURGUNDY RED",
           "gender" : "WOMEN",
           "original_price" :8999,
@@ -497,7 +497,7 @@
       },
       {   
           "id" : 30,
-          "name" : "SOFTKNIT LOAFERS",
+          "name" : "Linen",
           "color" : "BLACK & RED (BLACK SOLE)",
           "gender" : "KIDS",
           "original_price" :3799,
@@ -514,7 +514,7 @@
       },
       {   
           "id" : 31,
-          "name" : "SOFTKNIT LOAFERS",
+          "name" : "Ellipsis",
           "color" : "BLACK & RED (BLACK SOLE)",
           "gender" : "MEN",
           "original_price" :3499,
@@ -548,7 +548,7 @@
       },
       {   
           "id" :33,
-          "name" : "SOFTKNIT LOAFERS",
+          "name" : "Linen",
           "color" : "WHITE & NAVY",
           "gender" : "WOMEN",
           "original_price" :3499,
@@ -582,7 +582,7 @@
       },
       {   
           "id" : 35,
-          "name" : "LINEN SNEAKERS",
+          "name" : "Linen",
           "color" : "LAVENDER",
           "gender" : "WOMEN",
           "original_price" :4799,
@@ -616,7 +616,7 @@
       },
        {   
           "id" : 37,
-          "name" : "LINEN SNEAKERS",
+          "name" : "Linen",
           "color" : "OLIVE-BLACK (BLACK SOLE)",
           "gender" : "MEN",
           "original_price" :4799,
